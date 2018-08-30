@@ -1,3 +1,4 @@
 count = 0
 number = int(input())
-print (number,len(str(abs(number))))
+print (number)
+print(len(str(abs(number))))
